@@ -1,6 +1,6 @@
-# a Crypto Dashboard built by me
+# Crypto Dashboard built using Rapid API, Redux Toolkit, and React hooks
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://crypto-dashboard-999.netlify.app/
 
 ## Available Scripts
 
