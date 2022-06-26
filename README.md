@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# a Crypto Dashboard built by me
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
